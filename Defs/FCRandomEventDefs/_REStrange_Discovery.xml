@@ -196,7 +196,7 @@
 	<FactionColonies.FCEventDef>
 		<defName>strangeDiscovery_2-3</defName> 
 		<label>Strange Discovery</label> 
-		<desc>When your miners investigated, a large incestoid attacked! A few of the miners were killed before the creature was slain. Due to this, a number of workers have decided to stay home after the traumatic event. \n -3 max workers</desc>
+		<desc>When your miners investigated, a large insectoid attacked! A few of the miners were killed before the creature was slain. Due to this, a number of workers have decided to stay home after the traumatic event. \n -3 max workers</desc>
 		
 		<!-- Basic event stuff -->
 		<timeTillTrigger>300000</timeTillTrigger> 
